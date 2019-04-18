@@ -5,7 +5,7 @@ require 'yaml/store'
 # class to handle all user information and actions
 class User
   attr_accessor :username, :password
-# initialize the credentials as instance variables
+  # initialize the credentials as instance variables
   def initialize(username, password)
     @username = username
     @password = password

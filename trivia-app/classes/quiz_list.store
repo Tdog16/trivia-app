@@ -1,0 +1,31 @@
+---
+testing123: !ruby/object:QuizCreation
+  for_user: testing123
+  score_per_question: 25
+  prompt_list:
+  - what is the color of the terminal?
+  - How old am i?
+  - what is the color of an apple?
+  - What is my dogs name?
+  answer_list:
+  - - black
+    - red
+    - blue
+    - purple
+  - - '14'
+    - '17'
+    - '96'
+    - '55'
+  - - red
+    - green
+    - black
+    - orange
+  - - wolf
+    - china
+    - wingnut
+    - chapel
+  answer:
+  - black
+  - '17'
+  - red
+  - wolf

@@ -1,0 +1,13 @@
+---
+test: !ruby/object:User
+  username: test
+  password: test123
+liam: !ruby/object:User
+  username: liam
+  password: liam
+bobby: !ruby/object:User
+  username: bobby
+  password: bobby
+'': !ruby/object:User
+  username: ''
+  password: ''
